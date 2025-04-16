@@ -1,0 +1,19 @@
+/docs
+├── project/
+│   ├── project-charter.md
+│   ├── development-timeline.md
+│   └── coding-standards.md
+├── technical/
+│   ├── architecture-overview.md
+│   ├── system-specifications/
+│   │   └── [individual system specs]
+│   └── ml-integration.md
+├── design/
+│   ├── game-systems.md
+│   ├── mechanics/
+│   │   └── [detailed mechanics docs]
+│   └── content-guidelines.md
+├── legal/
+│   ├── license.md
+│   └── srd-compliance.md
+└── README.md
