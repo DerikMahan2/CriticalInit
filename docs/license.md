@@ -1,4 +1,4 @@
-Copyright (c) 2024 Derik. All Rights Reserved.
+Copyright (c) 2025 Derik. All Rights Reserved.
 
 This software and associated documentation files (the "Software") are proprietary and confidential. 
 The Software is protected by copyright laws and international copyright treaties, as well as other 
