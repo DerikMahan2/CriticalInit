@@ -398,3 +398,41 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# ========== UNITY FILES ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DS_Store
+*.apk
+*.aab
+*.zip
+*.dylib
+*.dll
+*.exe
+
+# Rider / VS / Copilot
+.idea/
+*.DotSettings
+CopilotIndices/
