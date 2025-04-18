@@ -21,22 +21,22 @@
 <details>
 <summary>📅 Day 2 – Player Setup & Input</summary>
 
-🔲 **Tasks:**
-- [ ] Add placeholder Player GameObject
-- [ ] Add Rigidbody2D + Collider components
-- [ ] Create and attach movement script
-- [ ] Test directional input (WASD or arrows)
+✅ **Tasks:**
+- [X] Add placeholder Player GameObject
+- [X] Add Rigidbody2D + Collider components
+- [X] Create and attach movement script
+- [X] Test directional input (WASD or arrows)
 
 </details>
 
 <details>
 <summary>📅 Day 3 – Camera Follow & Scene Polish</summary>
 
-🔲 **Tasks:**
-- [ ] Implement camera follow script
-- [ ] Ensure bounds or constraints on camera
-- [ ] Add sample art or lighting tweaks
-- [ ] Push to GitHub
+✅ **Tasks:**
+- [X] Implement camera follow script
+- [X] Ensure bounds or constraints on camera
+- [X] Add sample art or lighting tweaks
+- [X] Push to GitHub
 
 </details>
 
